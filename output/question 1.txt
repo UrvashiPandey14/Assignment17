@@ -1,0 +1,7 @@
+int c = 0;
+for(int i = n; i > 0; i /= 2) {
+c++;
+}
+
+
+output:: Time complexity for this code is O(log2n).
